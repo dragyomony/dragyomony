@@ -24,8 +24,7 @@ When I’m not coding, you’ll probably find me exploring massive open worlds i
 
 ## 📫 Connect
 - GitHub: [@dragyomony](https://github.com/dragyomony)  
-- Email: *your.email@example.com*  
-- LinkedIn: *your-linkedin-url*  
+- LinkedIn: https://www.linkedin.com/in/gunnar-douroux-284b2951/  
 
 ---
 
