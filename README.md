@@ -1,19 +1,32 @@
-Hi, I am Gunnar
-AI automation engineer focused on building local-first agents that control real desktop software using computer vision and LLMs. I combine my Information Technology BS at American Military University with 14 years of USAF experience to ship reliable automation that works on day one.
-⦁	Attempting to commission into the Space Force. While I wait, I am building civilian-ready AI automation tools.
-⦁	Strengths: Windows automation, TypeScript, Python, React Native, GPU setup, CI and testing.
-⦁	Mission: turn messy workflows into simple, repeatable automations.
-Contact  
-Email: add your email  LinkedIn: add your LinkedIn  Resume: /docs/Resume.pdf
-Target roles  
-AI Automation Engineer  Software Engineer AI  Intelligent RPA Engineer  Platform Engineer for AI
-Featured projects
-⦁	win-vision-agent a local desktop agent that clicks and types by reading your screen
-⦁	ops-copilot safe automation via YAML workflows and human approvals
-⦁	logistics-route-optimizer operations flavored path finding with OR Tools
-⦁	cs-algorithms-with-explanations curated interview prep with real write ups
-⦁	ocr-ui-bench a small benchmark for OCR and UI element detection
-Skills
-Python  OpenCV  Tesseract  PyAutoGUI  TypeScript  Node  React Native  Docker  GitHub Actions
-Values
-Simple setup, clear READMEs, good logs, measurable results, and small fast feedback loops.
+# Hi, I’m Gunnar 👋
+
+I’m a developer who builds **AI automation tools** that work entirely on your local machine — no cloud required. My focus is creating agents that can see, understand, and control desktop software, turning messy workflows into simple repeatable processes.  
+
+When I’m not coding, you’ll probably find me exploring massive open worlds in **ARK: Survival Evolved**, **Minecraft**, or **No Man’s Sky** — and yes, I love building mods, automations, and tools for my favorite games.
+
+## 🖥️ What I Build
+- **Local-first AI agents** using Python, OpenCV, Tesseract, and PyAutoGUI  
+- **Automation CLIs** in TypeScript and Node.js for repeatable, auditable workflows  
+- **Optimization tools** for routing, logistics, and decision-making  
+- **CS fundamentals** projects — algorithms with clear explanations and code
+
+## 🛠️ Tech Stack
+**Languages:** Python, TypeScript, JavaScript  
+**Frameworks & Tools:** React Native, Node.js, Docker, GitHub Actions  
+**Specialties:** Computer vision, OCR, automation, workflow design  
+
+## 🎯 Featured Projects
+- **win-vision-agent** — Local desktop agent that clicks and types by reading your screen  
+- **ops-copilot** — Safe YAML-driven automation with human approvals  
+- **logistics-route-optimizer** — Vehicle routing with OR Tools  
+- **cs-algorithms-with-explanations** — Interview prep with human-readable write-ups  
+- **ocr-ui-bench** — OCR benchmark for Windows UI text
+
+## 📫 Connect
+- GitHub: [@dragyomony](https://github.com/dragyomony)  
+- Email: *your.email@example.com*  
+- LinkedIn: *your-linkedin-url*  
+
+---
+
+*"Code is my toolkit, games are my playground, and automation is the bridge between them."*
